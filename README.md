@@ -42,13 +42,21 @@ Each data structure has its own submenu for the available operations. The user c
 
 ## 💻 Sample Run / Output
 
-```
-<img width="313" height="638" alt="image" src="https://github.com/user-attachments/assets/f67128ae-ab11-4dbb-8d47-fab127cfea6c" />
-```
+---
+
+<img width="313" height="640" alt="image" src="https://github.com/user-attachments/assets/a262d30f-bdd4-4382-a7f1-c47e5d482769" />
+
+---
+
 <img width="312" height="643" alt="image" src="https://github.com/user-attachments/assets/639fca52-cb44-4eb3-93a6-8307d2385333" />
+
 ---
+
 <img width="356" height="641" alt="image" src="https://github.com/user-attachments/assets/f7f3960f-614f-4f89-9697-3832bf253a79" />
+
 ---
+
 <img width="438" height="637" alt="image" src="https://github.com/user-attachments/assets/325b73aa-22ae-4303-9731-6045ab62e5b2" />
+
 ---
 
