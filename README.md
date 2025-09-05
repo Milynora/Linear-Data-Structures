@@ -52,11 +52,10 @@ Each data structure has its own submenu for the available operations. The user c
 
 ---
 
-<img width="356" height="641" alt="image" src="https://github.com/user-attachments/assets/f7f3960f-614f-4f89-9697-3832bf253a79" />
+<img width="358" height="636" alt="image" src="https://github.com/user-attachments/assets/93eeb5dd-1cee-4830-aa89-bb21d6dc60e7" />
 
 ---
 
 <img width="438" height="637" alt="image" src="https://github.com/user-attachments/assets/325b73aa-22ae-4303-9731-6045ab62e5b2" />
 
 ---
-
